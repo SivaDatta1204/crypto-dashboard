@@ -5,7 +5,6 @@ import { useCryptoData } from "../hooks/useCryptoData";
 import { useFavorites } from "../hooks/useFavorites";
 import { useCryptoWebSocket } from "../hooks/useCryptoWebSocket";
 import { formatLargeNumber } from "../utils/common-utils";
-import type { Crypto, CryptoResponse } from "../tests";
 
 export const CryptoTable = () => {
   const [page, setPage] = useState(1);
@@ -137,7 +136,7 @@ export const CryptoTable = () => {
                 </div>
               </th>
               <th
-                className="px-4 py-4 text-left flex-1 min-w-[120px] cursor-pointer hover:bg-white/10"
+                className="px-4 py-4 text-left flex-1 w-32 min-w-[128px] cursor-pointer hover:bg-white/10"
                 onClick={() => handleSort("name")}
               >
                 <div className="flex items-center space-x-2">
