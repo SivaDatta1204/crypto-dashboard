@@ -150,9 +150,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Author
 
-[Siva Datta] - [sivadatta1204@gmail.com]
-
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/siva-datta-56092b14a/)
+Siva Datta 
+- sivadatta1204@gmail.com
+- LinkedIn: [Siva Datta](https://www.linkedin.com/in/siva-datta-56092b14a/)
 
 ---
 
