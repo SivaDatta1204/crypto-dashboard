@@ -9,6 +9,12 @@ A sophisticated real-time cryptocurrency tracking application built with React a
 <div align="center">
   <img src="./src/assets/readme/dashboard.png" alt="Crypto Dashboard" width="800"/>
 </div>
+<div align="center">
+  <video width="400" controls>
+    <source src="./src/assets/readme/demo-video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ## ✨ Key Features
 
@@ -88,7 +94,7 @@ src/
 ## 🎨 UI Showcase
 
 <div align="center">
-  <img src="./src/assets/readme/websocket-connection.png" alt="WebSocket Connection" width="400"/>
+  <img src="./src/assets/readme/websocket.png" alt="WebSocket Connection" width="400"/>
   <img src="./src/assets/readme/detail-view.png" alt="Detail View" width="400"/>
 </div>
 
